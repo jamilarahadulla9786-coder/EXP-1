@@ -46,7 +46,7 @@ CIRCUIT DIAGRAM:
 a.   KVL:
  
 
-
+All
 b.  KCL:
  
 
