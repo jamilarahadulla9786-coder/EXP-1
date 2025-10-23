@@ -43,12 +43,12 @@ CIRCUIT DIAGRAM:
 CIRCUIT DIAGRAM:
 
 
-a.   KVL:![WhatsApp Image 20beee 1](https://github.com/user-attachments/assets/db942155-6cd0-4d32-a4bb-ee398a7dab67)
+a.   ![beee2](https://github.com/user-attachments/assets/b93dde85-4615-48fe-b3fe-3bf04459d2d4)
 
  
 
 All
-b.  KCL:![beee2](https://github.com/user-attachments/assets/0c058b82-6bcf-4a4f-aba2-caf7fd3960f2)
+b. KVL:![WhatsApp Image 20beee 1](https://github.com/user-attachments/assets/db942155-6cd0-4d32-a4bb-ee398a7dab67)
 
  
 
